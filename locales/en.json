@@ -86,6 +86,8 @@
     "last_page": "Previous",
     "next_page": "Next",
     "remove_item": "Remove item ",
+    "yes": "是",
+    "no": "否",
     
     "empty": "Empty",
     "no_enemy": "No enemy here",
@@ -96,6 +98,8 @@
     "use_item_failed": "Use item failed ",
 
     "show_battle_animate_confirm": "Do you want to enable battle animation? \n(You can change it later in the system settings.)",
+    "choose_sex": "Choose your sex",
+    "show_sex_confirm": "Are you a boy?",
     "use_transporter_neer_floor": "You can only use the transporter on the staircase.",
     "failed_to_use_transporter": "Failed to use transporter",
     "transport_floor": "transport to floor",

@@ -87,6 +87,8 @@
     "last_page": "上一页",
     "next_page": "下一页",
     "remove_item": "移除物品 ",
+    "yes": "是",
+    "no": "否",
 
     "empty": "空",
     "no_enemy": "这里没有敌人",
@@ -97,6 +99,8 @@
     "use_item_failed": "当前无法使用",
 
     "show_battle_animate_confirm": "需要开启战斗动画吗？\n（也可后续在系统设置更改）。",
+    "choose_sex": "选择性别",
+    "show_sex_confirm": "您是男孩子吗？",
     "use_transporter_neer_floor": "只有在楼梯边才能用用传送器",
     "failed_to_use_transporter": "使用传送器失败",
     "transport_floor": "楼层传送",
