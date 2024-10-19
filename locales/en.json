@@ -1,19 +1,24 @@
 {
     "title": "END Tower",
+
     "full_name": "Damien Noella Eda",
+
     "loading": "Please wait...",
     "loading_resources": "Resources are loading...",
+
     "start_game": "Start",
     "load_game": "Load",
     "easy_level": "Easy",
     "normal_level": "Normal",
     "hard_level": "Hard",
+
     "level": "Level",
     "hp": "HP",
     "attack": "Attack",
     "defense": "Defense",
     "money": "Money",
     "exp": "EXP",
+
     "monster": "Monster",
     
     "loading_core_js": "Loading core JS files...",
@@ -50,6 +55,7 @@
     "main_22R": "Floor 22 Right",
     "main_22D": "Floor 22 Down",
     "main_23": "Main Tower Floor 23",
+    
 
     "main_24": "Main Tower Floor 24",
     "main_25": "Main Tower Floor 25",
@@ -65,7 +71,7 @@
 
     "gameover_ending1": "You are died!",
     "gameover_ending2": "You win the game!",
-    "posion": "You have been poisoned and died.",
+    "poison": "You have been poisoned and died.",
     "zone": "You have been attacked by zone and died.",
     "damaged": "You have been damaged and died.",
     "battle": "You have been defeated and died.",
@@ -104,6 +110,9 @@
     "failed_to_use_transporter": "Failed to use transporter",
     "transport_floor": "transport to floor",
     "center_fly_failed": "failed to center fly",
+
+    "save": "save",
+    "load": "load",
 
     "unimplemented": "This feature is not implemented yet."
 }
